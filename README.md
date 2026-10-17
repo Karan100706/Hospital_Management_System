@@ -1,2 +1,3 @@
-# Hospital_Management_System
-Hospital Management System - Software Project Management
+## Streamlit Application
+Main application file: app.py
+Framework: Streamlit
